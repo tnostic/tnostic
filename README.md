@@ -3,6 +3,7 @@
 I'm Tim, (or tnostic, whatever you like)!
 
 Studying programming for the joy of it and doing whatever interests me.
+Currently a CS student.
 
 Things I like, work in or just study in my free time:
 
