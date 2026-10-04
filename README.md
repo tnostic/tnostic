@@ -1,4 +1,4 @@
-## Hello everybody, my name is welcome!
+## Welcome!
 
 I'm Tim, (or tnostic, whatever you like)!
 
